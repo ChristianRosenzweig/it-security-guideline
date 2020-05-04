@@ -557,7 +557,7 @@ Depending on the risk posed by a product, an auditor or test may require a certa
 #### **b) Technical literature and books**
 
 - Claudia Eckert: [IT-Sicherheit:](https://www.amazon.de/Sicherheit-Konzepte-Verfahren-Protokolle-Gruyter/dp/3110551586/)[Konzepte - Verfahren - Protokolle (De Gruyter Studium)](https://www.amazon.de/Sicherheit-Konzepte-Verfahren-Protokolle-Gruyter/dp/3110551586/)
-- Johner Institute: [Video trainings on the IT security of medical devices](../../C:%5CUsers%5Cchristianjohner%5CDocuments%5C99_Temp%5Crepo%5Cit-security-guideline%5Cwww.auditgarant.de)
+- Johner Institute: [Video trainings on the IT security of medical devices](https://johner-institute.com/e-learning/training-videos/market-your-medical-device/)
 - Current trends in [Bruce Schneier&#39;s blog](https://www.schneier.com/)
 
 ### **3. Considerations**
